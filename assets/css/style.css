@@ -94,6 +94,7 @@ nav p {
     display: inline-block;
     margin-left: 20px;
 }
+
 /*Consolidated .search-engine-optimization, online-reputation-management 
 and social-media marketing into a single CSS Rule*/
 section article {
@@ -104,18 +105,19 @@ section article {
     background-color: var(--dark-blue-background);
     color: var(--white-text-color);
 }
+
 /*Consolidated .search-engine-optimization, online-reputation-management 
 and social-media marketing images into a single CSS Rule*/
 section article img {
     max-height: 200px;
 }
+
 /*Consolidated .search-engine-optimization, online-reputation-management 
 and social-media marketing h2 into a single CSS Rule*/
 section article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 /*Content Style End*/
 
 /*Benefits Style Start*/
