@@ -1,6 +1,6 @@
 # <center>Horiseon Social Solution Services, Inc.</center>
 [![Image of Horiseon-SSS Landing Page
-](\assets\images\01-html-css-git-homework-demo.png
+](assets/images/01-html-css-git-homework-demo.png
 "Horiseon-SSS Landing Page")
 ](https://brobro10000.github.io/Horiseon-SSS)
 
@@ -16,54 +16,54 @@ Here are some of the highlights and changes to make the site not only usable, bu
 
 - A eye-catching hero section to grasp the viewers attention
 
-![HoriseonHero](\assets\images\Horiseon-SSS-Hero.JPG)
+![HoriseonHero](assets/images/Horiseon-SSS-Hero.JPG)
 
 
 - Articles that a brief yet informative to explain what Horiseon-SSS has to offer
 
-![HoriseonSemanticAfter](\assets\images\Horiseon-SSS-Articles.JPG)
+![HoriseonSemanticAfter](assets/images/Horiseon-SSS-Articles.JPG)
 
 
 - A friendly footer, signifying the copyright of Horiseon-SSS. 
 
-![HoriseonSemanticAfter](\assets\images\Horiseon-SSS-Footer.JPG)
+![HoriseonSemanticAfter](assets/images/Horiseon-SSS-Footer.JPG)
 
 
 - CSS color choices that are colorful yet classy
 
-![HoriseonSemanticAfter](\assets\images\Horiseon-SSS-CSS.JPG)
+![HoriseonSemanticAfter](assets/images/Horiseon-SSS-CSS.JPG)
 
 
 
 - Accessibility tags added to images to maintain best practices, and for everone to enjoy our site
 
-![HoriseonNavigation](\assets\images\Horiseon-SSS-Accessibility.JPG)
+![HoriseonNavigation](assets/images/Horiseon-SSS-Accessibility.JPG)
 
 
 - Sections defined by semantic elements to define layouts across the page, for better search optimizations
 
 ## **Before**
 
-![HoriseonSemanticBefore](\assets\images\Horiseon-SSS-Semantic-Before.JPG)
+![HoriseonSemanticBefore](assets/images/Horiseon-SSS-Semantic-Before.JPG)
 
 ## **After** 
-![HoriseonSemanticAfter](\assets\images\Horiseon-SSS-Semantic-After.JPG)
+![HoriseonSemanticAfter](assets/images/Horiseon-SSS-Semantic-After.JPG)
 
 
 - Consolidation of CSS code, utilizing semantic elements
 
 ## **Before**
 
-![HoriseonSemanticAfter](\assets\images\Horiseon-SSS-Consolidation-Before.JPG)
+![HoriseonSemanticAfter](assets/images/Horiseon-SSS-Consolidation-Before.JPG)
 
 ## **After**
 
-![HoriseonSemanticAfter](\assets\images\Horiseon-SSS-Consolidation-After.JPG)
+![HoriseonSemanticAfter](assets/images/Horiseon-SSS-Consolidation-After.JPG)
 
 
 - Variables defining the major color palette of Horiseon-SSS for easy reusability and restructuring
 
-![HoriseonSemanticAfter](\assets\images\Horiseon-SSS-CSS-Vars.JPG)
+![HoriseonSemanticAfter](assets/images/Horiseon-SSS-CSS-Vars.JPG)
 
 
 
