@@ -5,17 +5,17 @@
     margin: 0;
 }
 :root {
-    --eggshell-white:#d9dcd6;
-    --white-text-color: #ffffff;
-    --dark-blue-background: #0072bb;
-    --light-blue-background: #2589bd;
+    --primary-background-color:#d9dcd6;
+    --primary-text-color: #ffffff;
+    --primary-article-background-color: #0072bb;
+    --primary-aside-background-color: #2589bd;
 
 }
 /*Global var and styles End*/
 
 /*Body Style Start*/
 body {
-    background-color: var(--eggshell-white);
+    background-color: var(--primary-background-color);
 }
 /*Body Style End*
 
@@ -25,14 +25,14 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: var(--white-text-color);
+    color: var(--primary-text-color);
 }
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 header h1 .seo {
-    color: var(--eggshell-white);
+    color: var(--primary-background-color);
 }
 /* Replaced div with nav to maintain CSS */
 header nav {
@@ -53,7 +53,7 @@ header nav ul li {
 }
 /*Adding nav for more specificity*/
 nav a {
-    color: var(--white-text-color);
+    color: var(--primary-text-color);
     text-decoration: none;
 }
 nav p {
@@ -96,8 +96,8 @@ section article {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: var(--dark-blue-background);
-    color: var(--white-text-color);
+    background-color: var(--primary-article-background-color);
+    color: var(--primary-text-color);
 }
 /*Consolidated .search-engine-optimization, online-reputation-management 
 and social-media marketing images into a single CSS Rule*/
@@ -121,12 +121,12 @@ section article h2 {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: var(--light-blue-background);
+    background-color: var(--primary-aside-background-color);
 }
 /*Consolidated .benefit-lead, .benefit-brand, and .benefit-cost articles into a single CSS Rule*/
 aside article {
     margin-bottom: 32px;
-    color: var(--white-text-color);
+    color: var(--primary-text-color);
 }
 /*Consolidated .benefit-lead, .benefit-brand, and .benefit-cost article's h3 into a single CSS Rule*/
 aside article h3 {
