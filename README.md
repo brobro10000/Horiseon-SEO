@@ -11,7 +11,7 @@ Here are some of the highlights and changes to make the site not only usable, bu
 
 - HTML properties of a navigation to easily traverse the page
 
-![HoriseonNavigation](\assets\images\Horiseon-SSS-Navigation.JPG)
+![HoriseonNavigation](assets/images/Horiseon-SSS-Navigation.JPG)
 
 
 - A eye-catching hero section to grasp the viewers attention
